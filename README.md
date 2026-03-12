@@ -207,3 +207,4 @@ Backend runs on `http://localhost:5000`
 This project is proprietary software developed for Kordbear.  
 All rights reserved © 2025 Kordbear.
 "# kordbear_web" 
+"# kordbear_web" 

@@ -3,7 +3,7 @@
 Kordbear is a full-stack e-commerce web application developed for a professional 3D printing company. The platform offers a seamless shopping experience, a powerful admin panel, and a modern dark-themed UI built with performance and scalability in mind.
 
 ## 🖥️ Live Demo
-- Frontend: [e-commerceyunszyveli.vercel.app](https://e-commerceyunszyveli.vercel.app)
+- Frontend: [e-commerce-yunszyveli.vercel.app](https://e-commerce-yunszyveli.vercel.app)
 - Backend API: Railway
 
 ---

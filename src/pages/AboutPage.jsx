@@ -32,10 +32,10 @@ const VALUES = [
 ];
 
 const TEAM = [
-  { name: "Ahmet Yılmaz", role: "Kurucu & CEO", initial: "A" },
-  { name: "Mehmet Demir", role: "3D Tasarım Uzmanı", initial: "M" },
-  { name: "Ayşe Kaya", role: "Ürün Geliştirme", initial: "A" },
-  { name: "Fatma Çelik", role: "Müşteri İlişkileri", initial: "F" },
+  { name: "x", role: "Kurucu & CEO", initial: "A" },
+  { name: "x", role: "3D Tasarım Uzmanı", initial: "M" },
+  { name: "x", role: "Ürün Geliştirme", initial: "A" },
+  { name: "x", role: "Müşteri İlişkileri", initial: "F" },
 ];
 
 export default function AboutPage() {
